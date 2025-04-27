@@ -32,18 +32,10 @@ Vídeo demonstrativo 📹
 
 https://github.com/user-attachments/assets/72c9ca9a-a1fb-4469-b52c-15022f9ec862
 
+## Aplicação
 
+![App_Renda](https://previsaorenda-mod16.streamlit.app/)
 
-
-## Funcionalidades
-
-- Temas dark e light
-- Preview em tempo real
-- Modo tela cheia
-- Multiplataforma
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Niterói, RJ
+Abril de 2025
 
