@@ -7,6 +7,7 @@ Por isso, a importância de, tendo posse de determinadas variáveis, estimar a r
 **Autor:** André Lima
 
 Referência: Projeto Final do Curso Cientista de Dados, pela EBAC.
+<https://github.com/andrelima19778/Previsao_Rendapipe_m16_v.final.joblib>
 
 ## Correção do tutor da EBAC
 **Tutor:** Leandro Maia Gonçalves
