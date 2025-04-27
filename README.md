@@ -36,6 +36,14 @@ https://github.com/user-attachments/assets/72c9ca9a-a1fb-4469-b52c-15022f9ec862
 
 ![App_Renda](https://previsaorenda-mod16.streamlit.app/)
 
+<iframe
+  src="https://previsaorenda-mod16.streamlit.app/?embed=true"
+  style="height: 450px; width: 100%;"
+></iframe>
+
+https://previsaorenda-mod16.streamlit.app/?embed=true
+
+
 Niterói, RJ
 Abril de 2025
 
