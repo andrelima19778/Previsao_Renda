@@ -29,7 +29,9 @@ Ao longo do processo, você adquiriu competências importantes em análise de da
 ##
 ## Demonstração
 Vídeo demonstrativo 📹 
-<[https://github.com/andrelima19778/](https://user-images.githubusercontent.com/streamlit-projetofinal-2025-04-27-11-04-97.mp4)>
+https://github.com/user-attachments/assets/72c9ca9a-a1fb-4469-b52c-15022f9ec862
+
+
 
 
 ## Funcionalidades
