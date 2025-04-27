@@ -33,7 +33,7 @@ def load_file(unseen_data):
     if unseen_data is not None:
         df = pd.read_csv(unseen_data, usecols=['tempo_emprego', 'sexo', 'renda'])
     else:
-        df = pd.read_csv('unseen_data3.csv', usecols=['tempo_emprego', 'sexo', 'renda']) # alterar para definitivo
+        df = pd.read_csv('unseen_data.csv', usecols=['tempo_emprego', 'sexo', 'renda']) # alterar para definitivo
 
     return(df)
     
