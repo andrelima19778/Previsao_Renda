@@ -1,4 +1,4 @@
-# Previsao_Renda
+# Previsao_Renda 💰
 
 O principal objetivo de um estudo de análise de renda para uma instituição financeira é avaliar a capacidade do cliente de arcar com as suas obrigações financeiras, como empréstimos ou financiamentos. Esta análise é crucial para determinar o risco de crédito e, consequentemente, decidir sobre a concessão de crédito e as condições oferecidas.
 
