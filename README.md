@@ -20,8 +20,6 @@ https://github.com/user-attachments/assets/72c9ca9a-a1fb-4469-b52c-15022f9ec862
 
 https://previsaorenda-mod16.streamlit.app/?embed=true
 
-https://previsaorenda-mod16.streamlit.app/embed
-
 **Atenção:**<br/>
 Foi possível constatar que variáveis monetárias sofrem efeito multiplicativo, e por isso, decidiu-se usar transformação da variável resposta.
 
